@@ -1,0 +1,59 @@
+# Privacy Policy – MyFinance Backup
+
+**Last updated: October 22, 2026**
+
+## 1. Overview
+
+MyFinance Backup is a private, non-commercial application used exclusively by its owner to back up and manage personal files using Google Drive via rclone.
+
+The application is not offered as a public service.
+
+## 2. Data Access
+
+The application uses Google OAuth 2.0 to access the owner's Google Drive account.
+
+Depending on the permissions granted, the application may:
+
+- Upload backup files to Google Drive.
+- Read and download files.
+- List, organize, and delete files as required for backup management.
+
+## 3. Data Usage
+
+Google Drive data is accessed solely for personal backup and file management purposes.
+
+Data is not sold, used for advertising, or shared with third parties for marketing purposes.
+
+## 4. Data Storage and Security
+
+Backup files are stored in the owner's Google Drive account.
+
+OAuth credentials and access tokens are stored in the owner's private server environment and are not intentionally disclosed to third parties.
+
+## 5. Data Sharing
+
+The application does not share Google Drive data with external users or third-party services, except for the Google services required for its operation.
+
+## 6. Data Retention and Deletion
+
+Backup files are retained according to the owner's backup configuration and may be deleted by the owner at any time.
+
+Google account access can be revoked through:
+
+https://myaccount.google.com/connections
+
+## 7. Google API Services
+
+MyFinance Backup's use of information received from Google APIs is subject to the Google API Services User Data Policy, including the Limited Use requirements.
+
+https://developers.google.com/terms/api-services-user-data-policy
+
+## 8. Contact
+
+For privacy-related inquiries, contact:
+
+**[Your contact email address]**
+
+---
+
+This application is intended exclusively for private use by its owner.
